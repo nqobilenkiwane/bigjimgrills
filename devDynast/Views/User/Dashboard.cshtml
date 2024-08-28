@@ -1,0 +1,64 @@
+@{
+    ViewData["Title"] = "User Dashboard";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa; /* Light background for contrast */
+        }
+
+        .dashboard-container {
+            max-width: 600px;
+            margin: 50px auto; /* Center the dashboard */
+            padding: 20px;
+            border-radius: 8px; /* Rounded corners */
+            background-color: #fff; /* White background for the dashboard */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #343a40; /* Darker text color */
+        }
+
+        .btn-group a {
+            margin: 10px 5px; /* Space between buttons */
+            flex: 1; /* Make buttons take equal width */
+        }
+
+        .btn-group {
+            display: flex; /* Use flexbox for button alignment */
+        }
+
+        .btn {
+            transition: background-color 0.3s, transform 0.2s; /* Smooth hover effect */
+        }
+
+        .btn:hover {
+            transform: scale(1.05); /* Slightly enlarge on hover */
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard-container">
+        <h2>User Dashboard</h2>
+        <div class="btn-group" role="group" aria-label="User Dashboard Links">
+            <a href="@Url.Action("EditProfile", "User")" class="btn btn-primary">Edit Profile</a>
+           <a href="@Url.Action("Feedback", "User")" class="btn btn-secondary">Complaint</a>
+            <a href="@Url.Action("Items", "User")" class="btn btn-success">Ratings</a>
+            <a href="@Url.Action("OrderHistory", "User")" class="btn btn-info">Order History</a>
+        </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

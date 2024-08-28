@@ -1,0 +1,3 @@
+ALTER TABLE "user"
+ADD COLUMN "Role" VARCHAR(50),
+ADD COLUMN "IsRestricted" BOOLEAN;

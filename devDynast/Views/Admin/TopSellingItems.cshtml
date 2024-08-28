@@ -1,0 +1,27 @@
+@model List<devDynast.Models.TopSellingItemsViewModel>
+
+@{
+    ViewData["Title"] = "Top Selling Items Report";
+}
+
+<h2>Top Selling Items Report</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Item Name</th>
+            <th>Total Sales Count</th>
+            <th>Total Revenue</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ItemName</td>
+                <td>@item.SalesCount</td>
+                <td>@item.TotalRevenue.ToString("C", System.Globalization.CultureInfo.GetCultureInfo("en-ZA"))</td>
+            </tr>
+        }
+    </tbody>
+</table>

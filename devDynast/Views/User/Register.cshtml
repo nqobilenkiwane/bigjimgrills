@@ -1,0 +1,88 @@
+@model devDynast.Models.User
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+
+<!-- Main Content Section -->
+<div class="d-flex justify-content-center align-items-center vh-100">
+    <div class="card p-4 shadow-sm" style="width: 100%; max-width: 500px;">
+        <h2 class="text-center mb-4">@ViewData["Title"]</h2>
+
+        <form asp-action="Register" method="post">
+            <div asp-validation-summary="All" class="text-danger mb-3"></div>
+
+            <div class="form-group mb-3">
+                <label asp-for="FirstName" class="form-label"></label>
+                <input asp-for="FirstName" class="form-control" placeholder="Enter your first name" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="LastName" class="form-label"></label>
+                <input asp-for="LastName" class="form-control" placeholder="Enter your last name" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Email" class="form-label"></label>
+                <input asp-for="Email" class="form-control" placeholder="Enter your email" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Password" class="form-label"></label>
+                <input asp-for="Password" class="form-control" type="password" placeholder="Enter your password" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="PhoneNumber" class="form-label"></label>
+                <input asp-for="PhoneNumber" class="form-control" placeholder="Enter your phone number" />
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-4">
+                <label asp-for="Role" class="control-label"></label>
+                <select asp-for="Role" class="form-control">
+                    <option value="Admin">Admin</option>
+                    <option value="User">User</option>
+                </select>
+                <span asp-validation-for="Role" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary w-100 mb-3">Register</button>
+        </form>
+
+        <p class="text-center">
+    Already have an account? <a asp-controller="Account" asp-action="Login" class="text-primary">Login here</a>
+</p>
+
+    </div>
+</div>
+
+
+<!-- Optional: Custom CSS for additional styling -->
+<style>
+    body {
+        background-color: #f8f9fa; /* Light background color */
+    }
+    .card {
+        border: none; /* No border for the card */
+        border-radius: 8px; /* Rounded corners */
+    }
+    .form-label {
+        font-weight: 500; /* Medium weight for labels */
+    }
+    .form-control {
+        border-radius: 4px; /* Rounded corners for inputs */
+    }
+    .btn-primary {
+        background-color: #007bff; /* Primary button color */
+        border-color: #007bff; /* Border color matching button */
+    }
+    .text-primary {
+        color: #007bff; /* Color for primary text links */
+    }
+</style>

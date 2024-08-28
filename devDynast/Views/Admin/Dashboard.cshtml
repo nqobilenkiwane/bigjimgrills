@@ -1,0 +1,35 @@
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+
+
+<!-- Main Content Section -->
+<div class="container mt-5">
+    <h2 class="text-center">@ViewData["Title"]</h2>
+    <div class="row justify-content-center mt-4">
+        <div class="col-md-4 mb-3">
+            <a href="/User/Register" class="btn btn-primary btn-lg w-100">Register User</a>
+        </div>
+          <div class="col-md-4 mb-3">
+            <a href="/Admin/MenuList" class="btn btn-secondary btn-lg w-100">Edit/Delete Items</a>
+        </div> 
+        <div class="col-md-4 mb-3">
+            <a href="/Admin/Index" class="btn btn-success btn-lg w-100">Edit/Delete Users</a>
+        </div>
+        <div class="col-md-4 mb-3">
+            <a href="/Admin/Statistics" class="btn btn-info btn-lg w-100">Statistics</a>
+        </div>
+    </div>
+</div>
+
+
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+<!-- Custom CSS for additional styling -->
+<style>
+    body {
+        background-color: #f8f9fa;
+    }
+</style>

@@ -1,0 +1,88 @@
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\bin\Debug\net8.0\appsettings.json
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\bin\Debug\net8.0\devDynast.staticwebassets.runtime.json
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\bin\Debug\net8.0\devDynast.exe
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\bin\Debug\net8.0\devDynast.deps.json
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\bin\Debug\net8.0\devDynast.runtimeconfig.json
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\bin\Debug\net8.0\devDynast.dll
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\bin\Debug\net8.0\devDynast.pdb
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\devDynast.csproj.AssemblyReference.cache
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\devDynast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\devDynast.AssemblyInfoInputs.cache
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\devDynast.AssemblyInfo.cs
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\devDynast.csproj.CoreCompileInputs.cache
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\devDynast.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\devDynast.RazorAssemblyInfo.cache
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\devDynast.RazorAssemblyInfo.cs
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\staticwebassets\msbuild.devDynast.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\staticwebassets\msbuild.build.devDynast.props
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.devDynast.props
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.devDynast.props
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\scopedcss\bundle\devDynast.styles.css
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\scopedcss\projectbundle\devDynast.bundle.scp.css
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\devDynast.csproj.Up2Date
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\devDynast.dll
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\refint\devDynast.dll
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\devDynast.pdb
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\devDynast.genruntimeconfig.cache
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\obj\Debug\net8.0\ref\devDynast.dll
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Xolani Mavuso\Desktop\dev_website\devDynast\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\bin\Debug\net8.0\appsettings.json
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\bin\Debug\net8.0\devDynast.staticwebassets.runtime.json
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\bin\Debug\net8.0\devDynast.exe
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\bin\Debug\net8.0\devDynast.deps.json
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\bin\Debug\net8.0\devDynast.runtimeconfig.json
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\bin\Debug\net8.0\devDynast.dll
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\bin\Debug\net8.0\devDynast.pdb
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\bin\Debug\net8.0\Npgsql.dll
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\devDynast.csproj.AssemblyReference.cache
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\devDynast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\devDynast.AssemblyInfoInputs.cache
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\devDynast.AssemblyInfo.cs
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\devDynast.csproj.CoreCompileInputs.cache
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\devDynast.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\devDynast.RazorAssemblyInfo.cache
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\devDynast.RazorAssemblyInfo.cs
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\staticwebassets\msbuild.devDynast.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\staticwebassets\msbuild.build.devDynast.props
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.devDynast.props
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.devDynast.props
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\scopedcss\bundle\devDynast.styles.css
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\scopedcss\projectbundle\devDynast.bundle.scp.css
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\devDynast.csproj.Up2Date
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\devDynast.dll
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\refint\devDynast.dll
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\devDynast.pdb
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\devDynast.genruntimeconfig.cache
+C:\Users\nqobi\My_Files\websiteUpdate(28-Aug-24)\dev_website\devDynast\obj\Debug\net8.0\ref\devDynast.dll

@@ -1,0 +1,30 @@
+@model IEnumerable<devDynast.Models.MenuItem>
+
+<h2>Menu List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var meal in Model)
+        {
+            <tr>
+                <td>@meal.Name</td>
+                <td>@meal.Category</td>
+                <td>@meal.Description</td>
+                <td>@meal.Price</td>
+                <td>
+                    <a href="@Url.Action("EditMeal", "Admin", new { id = meal.Id })" class="btn btn-primary">Edit</a>
+                    <a href="@Url.Action("DeleteMeal", "Admin", new { id = meal.Id })" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

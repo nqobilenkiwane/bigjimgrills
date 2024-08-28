@@ -1,0 +1,43 @@
+@model List<devDynast.Models.SalesCompareViewModel>
+
+@{
+    ViewData["Title"] = "Sales vs Pending Items Report";
+}
+
+<h2>Sales vs Pending Items Report</h2>
+
+<canvas id="SalesCompare" width="400" height="200"></canvas>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        var ctx = document.getElementById('SalesCompare').getContext('2d');
+        var SalesReport = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: @Html.Raw(Json.Serialize(Model.Select(m => m.Month))),
+                datasets: [
+                    {
+                        label: 'Number of Sales',
+                        data: @Html.Raw(Json.Serialize(Model.Select(m => m.SalesCount))),
+                        borderColor: 'rgba(54, 162, 235, 1)',
+                        fill: false
+                    },
+                    {
+                        label: 'Pending Items',
+                        data: @Html.Raw(Json.Serialize(Model.Select(m => m.PendingCount))),
+                        borderColor: 'rgba(255, 99, 132, 1)',
+                        fill: false
+                    }
+                ]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    </script>
+}
